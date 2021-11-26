@@ -1,5 +1,4 @@
 import path from 'path'
-// import * as R from './r-integration-lib.js'
 import R from 'r-integration'
 
 export function square (num) {

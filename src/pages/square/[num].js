@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { square } from '../../r-scripts/r-integration.js'
+import { square } from '../../utils/r.js'
 
 export default function Home({ input, output }) {
   const rFunction = [
